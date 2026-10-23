@@ -1,0 +1,1 @@
+sed -i 's/^/@: /' file.txt

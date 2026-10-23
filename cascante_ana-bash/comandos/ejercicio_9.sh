@@ -1,0 +1,1 @@
+tr '[:upper:]' '[:lower:]' < file.txt > temporal.txt && mv temporal.txt file.txt

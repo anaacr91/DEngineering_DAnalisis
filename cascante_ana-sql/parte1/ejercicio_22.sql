@@ -1,0 +1,4 @@
+SELECT *
+FROM songs
+ORDER BY rate DESC
+LIMIT 3;

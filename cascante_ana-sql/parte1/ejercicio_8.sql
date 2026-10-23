@@ -1,0 +1,3 @@
+SELECT TITLE
+FROM movies
+WHERE TITLE LIKE 'The%';

@@ -1,0 +1,4 @@
+SELECT *
+FROM songs
+WHERE `year` BETWEEN 1970 AND 1979
+  AND rate > 8;

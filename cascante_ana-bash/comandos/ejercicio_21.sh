@@ -1,0 +1,1 @@
+sed '/bar/d' file.txt

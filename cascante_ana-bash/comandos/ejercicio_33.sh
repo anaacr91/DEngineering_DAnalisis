@@ -1,0 +1,1 @@
+mv *vacation* /home/user/Pics/Trips/

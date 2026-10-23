@@ -1,0 +1,1 @@
+sed -n '/error/p' file.txt > error.txt

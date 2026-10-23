@@ -1,0 +1,1 @@
+chmod 641 file.txt

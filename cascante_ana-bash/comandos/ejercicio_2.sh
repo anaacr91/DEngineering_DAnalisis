@@ -1,0 +1,1 @@
+grep -i 'c' file.txt
